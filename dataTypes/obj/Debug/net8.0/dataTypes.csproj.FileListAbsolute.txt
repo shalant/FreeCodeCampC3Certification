@@ -1,0 +1,15 @@
+C:\Users\digdr\Documents\coding\CsharpProjects\dataTypes\bin\Debug\net8.0\dataTypes.exe
+C:\Users\digdr\Documents\coding\CsharpProjects\dataTypes\bin\Debug\net8.0\dataTypes.deps.json
+C:\Users\digdr\Documents\coding\CsharpProjects\dataTypes\bin\Debug\net8.0\dataTypes.runtimeconfig.json
+C:\Users\digdr\Documents\coding\CsharpProjects\dataTypes\bin\Debug\net8.0\dataTypes.dll
+C:\Users\digdr\Documents\coding\CsharpProjects\dataTypes\bin\Debug\net8.0\dataTypes.pdb
+C:\Users\digdr\Documents\coding\CsharpProjects\dataTypes\obj\Debug\net8.0\dataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digdr\Documents\coding\CsharpProjects\dataTypes\obj\Debug\net8.0\dataTypes.AssemblyInfoInputs.cache
+C:\Users\digdr\Documents\coding\CsharpProjects\dataTypes\obj\Debug\net8.0\dataTypes.AssemblyInfo.cs
+C:\Users\digdr\Documents\coding\CsharpProjects\dataTypes\obj\Debug\net8.0\dataTypes.csproj.CoreCompileInputs.cache
+C:\Users\digdr\Documents\coding\CsharpProjects\dataTypes\obj\Debug\net8.0\dataTypes.sourcelink.json
+C:\Users\digdr\Documents\coding\CsharpProjects\dataTypes\obj\Debug\net8.0\dataTypes.dll
+C:\Users\digdr\Documents\coding\CsharpProjects\dataTypes\obj\Debug\net8.0\refint\dataTypes.dll
+C:\Users\digdr\Documents\coding\CsharpProjects\dataTypes\obj\Debug\net8.0\dataTypes.pdb
+C:\Users\digdr\Documents\coding\CsharpProjects\dataTypes\obj\Debug\net8.0\dataTypes.genruntimeconfig.cache
+C:\Users\digdr\Documents\coding\CsharpProjects\dataTypes\obj\Debug\net8.0\ref\dataTypes.dll
