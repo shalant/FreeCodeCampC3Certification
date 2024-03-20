@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\digdr\\Documents\\coding\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\Final\\Final.csproj": {}
+    "C:\\Users\\digdr\\Documents\\coding\\CsharpProjects\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\Final\\Final.csproj": {}
   },
   "projects": {
-    "c:\\Users\\digdr\\Documents\\coding\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\Final\\Final.csproj": {
+    "C:\\Users\\digdr\\Documents\\coding\\CsharpProjects\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\Final\\Final.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\digdr\\Documents\\coding\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\Final\\Final.csproj",
+        "projectUniqueName": "C:\\Users\\digdr\\Documents\\coding\\CsharpProjects\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\Final\\Final.csproj",
         "projectName": "Final",
-        "projectPath": "c:\\Users\\digdr\\Documents\\coding\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\Final\\Final.csproj",
+        "projectPath": "C:\\Users\\digdr\\Documents\\coding\\CsharpProjects\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\Final\\Final.csproj",
         "packagesPath": "C:\\Users\\digdr\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\digdr\\Documents\\coding\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\Final\\obj\\",
+        "outputPath": "C:\\Users\\digdr\\Documents\\coding\\CsharpProjects\\Guided-project-branching-looping-CSharp-main\\GuidedProject\\Final\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\digdr\\AppData\\Roaming\\NuGet\\NuGet.Config",

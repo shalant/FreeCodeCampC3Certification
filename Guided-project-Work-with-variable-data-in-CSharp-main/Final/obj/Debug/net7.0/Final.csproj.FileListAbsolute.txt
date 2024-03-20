@@ -1,0 +1,15 @@
+c:\Users\digdr\Documents\coding\CsharpProjects\Guided-project-Work-with-variable-data-in-CSharp-main\Final\bin\Debug\net7.0\Final.exe
+c:\Users\digdr\Documents\coding\CsharpProjects\Guided-project-Work-with-variable-data-in-CSharp-main\Final\bin\Debug\net7.0\Final.deps.json
+c:\Users\digdr\Documents\coding\CsharpProjects\Guided-project-Work-with-variable-data-in-CSharp-main\Final\bin\Debug\net7.0\Final.runtimeconfig.json
+c:\Users\digdr\Documents\coding\CsharpProjects\Guided-project-Work-with-variable-data-in-CSharp-main\Final\bin\Debug\net7.0\Final.dll
+c:\Users\digdr\Documents\coding\CsharpProjects\Guided-project-Work-with-variable-data-in-CSharp-main\Final\bin\Debug\net7.0\Final.pdb
+c:\Users\digdr\Documents\coding\CsharpProjects\Guided-project-Work-with-variable-data-in-CSharp-main\Final\obj\Debug\net7.0\Final.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\digdr\Documents\coding\CsharpProjects\Guided-project-Work-with-variable-data-in-CSharp-main\Final\obj\Debug\net7.0\Final.AssemblyInfoInputs.cache
+c:\Users\digdr\Documents\coding\CsharpProjects\Guided-project-Work-with-variable-data-in-CSharp-main\Final\obj\Debug\net7.0\Final.AssemblyInfo.cs
+c:\Users\digdr\Documents\coding\CsharpProjects\Guided-project-Work-with-variable-data-in-CSharp-main\Final\obj\Debug\net7.0\Final.csproj.CoreCompileInputs.cache
+c:\Users\digdr\Documents\coding\CsharpProjects\Guided-project-Work-with-variable-data-in-CSharp-main\Final\obj\Debug\net7.0\Final.sourcelink.json
+c:\Users\digdr\Documents\coding\CsharpProjects\Guided-project-Work-with-variable-data-in-CSharp-main\Final\obj\Debug\net7.0\Final.dll
+c:\Users\digdr\Documents\coding\CsharpProjects\Guided-project-Work-with-variable-data-in-CSharp-main\Final\obj\Debug\net7.0\refint\Final.dll
+c:\Users\digdr\Documents\coding\CsharpProjects\Guided-project-Work-with-variable-data-in-CSharp-main\Final\obj\Debug\net7.0\Final.pdb
+c:\Users\digdr\Documents\coding\CsharpProjects\Guided-project-Work-with-variable-data-in-CSharp-main\Final\obj\Debug\net7.0\Final.genruntimeconfig.cache
+c:\Users\digdr\Documents\coding\CsharpProjects\Guided-project-Work-with-variable-data-in-CSharp-main\Final\obj\Debug\net7.0\ref\Final.dll

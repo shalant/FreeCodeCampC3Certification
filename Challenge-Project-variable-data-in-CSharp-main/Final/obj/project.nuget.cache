@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RviAipQrPIY2iADtOlz4YqETPqPgHtPy4p4H1GMqLUcmO0g0amsc3w1TFqIRJdH8HO/H4EDfrVfE6mQUVrUNKQ==",
+  "dgSpecHash": "UzLhzgSeAaBALTtezlJkEMRQM5UAMjoAG/Zc36oZ8vDZE0/pWi3mbhe2xAcwxjYbbVdVbjdprgDoedZzZWvacg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\digdr\\Documents\\coding\\CsharpProjects\\Challenge-Project-variable-data-in-CSharp-main\\Final\\Final.csproj",
+  "projectFilePath": "C:\\Users\\digdr\\Documents\\coding\\CsharpProjects\\Challenge-Project-variable-data-in-CSharp-main\\Final\\Final.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\digdr\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.12\\microsoft.netcore.app.ref.7.0.12.nupkg.sha512",
     "C:\\Users\\digdr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.12\\microsoft.windowsdesktop.app.ref.7.0.12.nupkg.sha512",
